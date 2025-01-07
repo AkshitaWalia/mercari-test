@@ -1,0 +1,13 @@
+{
+  "name": "mercari-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "author": "walia.akshita99@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.17.0"
+  }
+}
